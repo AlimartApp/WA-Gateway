@@ -9,10 +9,10 @@
     <title>WHATSAPP GATEWAY | ALIMART</title>
     <div class="container">
         <br>
-        <a href="http://chat-api.phphive.info/login/gui" class="btn btn-primary mb-3">Login Dulu Tolol</a>
+        <a href="http://chat-api.phphive.info/login/gui" class="btn btn-primary mb-3">Login Dulu</a>
             <form class="data" method="POST">
               <button type="submit" id="click" name="submit" class="btn btn-success">Kirim</button><br>
-              <small id="emailHelp" color="red">*Jangan Asal Kirim dulu Goblok</small>
+              <small id="emailHelp" color="red">*Jangan Asal Kirim dulu</small>
             </form>
           <div id="tampil">
 
